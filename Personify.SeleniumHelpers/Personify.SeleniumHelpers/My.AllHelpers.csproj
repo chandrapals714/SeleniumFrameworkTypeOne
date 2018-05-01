@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{874E702E-6351-48D0-8382-F5FC33A4C93C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Personify.SeleniumHelpers</RootNamespace>
+    <AssemblyName>Personify.SeleniumHelpers</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core, Version=4.1.1.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Castle.Core.4.1.1\lib\net45\Castle.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="JetBrains.Annotations, Version=11.1.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\JetBrains.Annotations.11.1.0\lib\net20\JetBrains.Annotations.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MSBuild.NugetContentRestore, Version=0.1.1.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\MSBuild.NugetContentRestore.0.1.6\build\net40\MSBuild.NugetContentRestore.dll</HintPath>
+    </Reference>
+    <Reference Include="PerfectoLab, Version=6.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PerfectoLab.6.5.0.0\lib\PerfectoLab.dll</HintPath>
+    </Reference>
+    <Reference Include="PerfectoLab.Extended, Version=6.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PerfectoLab.Extended.6.5.0.0\lib\PerfectoLab.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp, Version=5.0.39.0, Culture=neutral, PublicKeyToken=b13fd38b8f9c99d7, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PostSharp.Redist.5.0.39\lib\net45\PostSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Aggregation, Version=5.0.39.0, Culture=neutral, PublicKeyToken=e7f631e6ce13f078, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PostSharp.Patterns.Aggregation.Redist.5.0.39\lib\net45\PostSharp.Patterns.Aggregation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Common, Version=5.0.39.0, Culture=neutral, PublicKeyToken=e7f631e6ce13f078, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PostSharp.Patterns.Common.Redist.5.0.39\lib\net45\PostSharp.Patterns.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Model, Version=5.0.39.0, Culture=neutral, PublicKeyToken=e7f631e6ce13f078, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\PostSharp.Patterns.Model.Redist.5.0.39\lib\net40\PostSharp.Patterns.Model.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Selenium.WebDriver.Extensions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.Extensions.3.1.1\lib\net45\Selenium.WebDriver.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SimpleInjector, Version=4.0.12.0, Culture=neutral, PublicKeyToken=984cb50dea722e99, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\SimpleInjector.4.0.12\lib\net45\SimpleInjector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TestStack.White, Version=0.13.0.0, Culture=neutral, PublicKeyToken=2672efbf3e161801, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\TestStack.White.0.13.3\lib\net40\TestStack.White.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TestStack.White.WebBrowser, Version=0.13.0.0, Culture=neutral, PublicKeyToken=2672efbf3e161801, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\TestStack.White.WebBrowser.0.13.3\lib\net40\TestStack.White.WebBrowser.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WebDriver, Version=3.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.3.9.1\lib\net45\WebDriver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=3.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.Support.3.9.1\lib\net45\WebDriver.Support.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generators\AddressGenerator.cs" />
+    <Compile Include="Generators\CompanyGenerator.cs" />
+    <Compile Include="Generators\DateGenerator.cs" />
+    <Compile Include="Generators\EmailGenerator.cs" />
+    <Compile Include="Generators\GeneratorBase.cs" />
+    <Compile Include="Generators\GeneratorData\Address.cs" />
+    <Compile Include="Generators\GeneratorData\Committee.cs" />
+    <Compile Include="Generators\GeneratorData\Company.cs" />
+    <Compile Include="Generators\GeneratorData\CommitteeConstituent.cs" />
+    <Compile Include="Generators\GeneratorData\CompanyConstituent.cs" />
+    <Compile Include="Generators\GeneratorData\Employee.cs" />
+    <Compile Include="Generators\GeneratorData\IndividualConstituent.cs" />
+    <Compile Include="Generators\GeneratorData\User.cs" />
+    <Compile Include="Generators\LoremIpsumGenerator.cs" />
+    <Compile Include="Generators\MersienneTwister.cs" />
+    <Compile Include="Generators\NameGenerator.cs" />
+    <Compile Include="Generators\PhoneGenerator.cs" />
+    <Compile Include="Generators\UserGenerator.cs" />
+    <Compile Include="Helpers\AssertHelpers.cs" />
+    <Compile Include="Helpers\Executor.cs" />
+    <Compile Include="Helpers\FileUploader.cs" />
+    <Compile Include="Helpers\Pair.cs" />
+    <Compile Include="Helpers\StringExtensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Helpers\SqlHelper.cs" />
+    <Compile Include="Helpers\WaitHelpers.cs" />
+    <Compile Include="Helpers\WebDriverFactory.cs" />
+    <Compile Include="Helpers\WebDriverHelpers.cs" />
+    <Compile Include="Helpers\WebElementHelpers.cs" />
+    <Compile Include="Helpers\WindTunnelUtils.cs" />
+    <Compile Include="SeleniumExtensions\By.cs" />
+    <Compile Include="SeleniumExtensions\SeleniumExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="zWebDrivers\chromedriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zWebDrivers\geckodriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zWebDrivers\IEDriverServer.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zWebDrivers\MicrosoftWebDriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.IEDriver.3.8.0\build\Selenium.WebDriver.IEDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.IEDriver.3.8.0\build\Selenium.WebDriver.IEDriver.targets'))" />
+    <Error Condition="!Exists('..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.ChromeDriver.2.35.0\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.ChromeDriver.2.35.0\build\Selenium.WebDriver.ChromeDriver.targets'))" />
+  </Target>
+  <Import Project="..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.IEDriver.3.8.0\build\Selenium.WebDriver.IEDriver.targets" Condition="Exists('..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.IEDriver.3.8.0\build\Selenium.WebDriver.IEDriver.targets')" />
+  <Import Project="..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.ChromeDriver.2.35.0\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\..\..\Web.SeleniumAutomation\Web.SeleniumAutomation\packages\Selenium.WebDriver.ChromeDriver.2.35.0\build\Selenium.WebDriver.ChromeDriver.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

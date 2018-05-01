@@ -1,0 +1,117 @@
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\chromedriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\geckodriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\IEDriverServer.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\MicrosoftWebDriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Castle.Core.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\MSBuild.NugetContentRestore.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\chromedriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\geckodriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\IEDriverServer.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\MicrosoftWebDriver.exe
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Castle.Core.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\MSBuild.NugetContentRestore.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.pdb
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.xml
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.dll
+D:\Personify(Novus)\4.Backups(Working)\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.pdb
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\chromedriver.exe
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\geckodriver.exe
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\IEDriverServer.exe
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\zWebDrivers\MicrosoftWebDriver.exe
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Personify.SeleniumHelpers.pdb
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Castle.Core.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\MSBuild.NugetContentRestore.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\JetBrains.Annotations.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PerfectoLab.Extended.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Aggregation.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Common.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\PostSharp.Patterns.Model.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\Selenium.WebDriver.Extensions.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\SimpleInjector.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.pdb
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\TestStack.White.WebBrowser.pdb
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\bin\Debug\WebDriver.Support.xml
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\My.AllHelpers.csprojResolveAssemblyReference.cache
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\My.AllHelpers.csproj.CoreCompileInputs.cache
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\My.AllHelpers.csproj.CopyComplete
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.dll
+F:\Selenium framework\SharedSolution_v1.0\Personify.SeleniumHelpers\Personify.SeleniumHelpers\Personify.SeleniumHelpers\obj\Debug\Personify.SeleniumHelpers.pdb
